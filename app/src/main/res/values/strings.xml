@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormFill Pro</string>
+    <string name="accessibility_service_description">FormFill Pro uses accessibility services to identify form input fields across applications and automatically assist you in auto-filling your saved profile data securely.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FormFill Pro",
+  "description": "Universal offline form filling assistant with floating action overlay button and smart input field detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
